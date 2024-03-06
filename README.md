@@ -13,3 +13,7 @@ Added a file to calculate cube of a number.
 These functions to calculate square and cube might not always work though.
 
 Made some change to readme
+
+Another change
+
+Another change
