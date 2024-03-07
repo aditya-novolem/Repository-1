@@ -1,2 +1,2 @@
-def triple(number):
-  return number * 3
+def quadtraple(number):
+  return number * 4
