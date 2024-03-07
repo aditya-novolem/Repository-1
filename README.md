@@ -16,3 +16,5 @@ Prior to European settlement, the modern city proper was inhabited by the Yelamu
 
 
 And some more information about adiaholic
+
+Add function to quadraple a number
