@@ -21,3 +21,6 @@ def give_20_times(n):
 
 def give_25_times(n):
   return give_x_times(n, 25)
+
+def give_30_times(n):
+  return give_x_times(n, 30)
