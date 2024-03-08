@@ -12,3 +12,6 @@ def give_5_times(n):
 
 def give_10_times(n):
   return give_x_times(n, 10)
+
+def give_15_times(n):
+  return give_x_times(n, 15)
