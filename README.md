@@ -17,3 +17,5 @@ Prior to European settlement, the modern city proper was inhabited by the Yelamu
 Add information about Aditya Borikar. He is currently helping build features for an amazing app called Briefcase.
 
 Add a sample line just for the sake of making a commit
+
+Another simple line for a commit
