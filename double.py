@@ -36,3 +36,6 @@ def give_45_times(n):
 
 def give_50_times(n):
   return give_x_times(n, 50)
+
+def give_100_times(n):
+  return give_x_times(n, 100)
